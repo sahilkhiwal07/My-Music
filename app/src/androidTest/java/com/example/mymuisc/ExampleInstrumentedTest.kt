@@ -1,4 +1,4 @@
-package com.example.mymusic
+package com.example.mymuisc
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

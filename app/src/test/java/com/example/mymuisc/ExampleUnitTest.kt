@@ -1,4 +1,4 @@
-package com.example.mymusic
+package com.example.mymuisc
 
 import org.junit.Test
 

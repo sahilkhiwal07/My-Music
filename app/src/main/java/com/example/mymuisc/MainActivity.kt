@@ -1,8 +1,7 @@
-package com.example.mymusic
+package com.example.mymuisc
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.mymuisc.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
